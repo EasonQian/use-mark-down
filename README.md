@@ -20,9 +20,9 @@ this is a ul
 * item 3 
 
 this is a ol
-1.  item 1
-2.  item 2
-3.  item 3
+1. item 1<br>
+2. item 2<br>
+3. item 3<br>
 
 _this is a strong text_
 
